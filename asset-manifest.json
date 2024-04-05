@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TextAnalyzerApp/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/TextAnalyzerApp/static/js/main.886f368c.chunk.js",
+    "main.js.map": "/TextAnalyzerApp/static/js/main.886f368c.chunk.js.map",
+    "runtime-main.js": "/TextAnalyzerApp/static/js/runtime-main.cebb8d97.js",
+    "runtime-main.js.map": "/TextAnalyzerApp/static/js/runtime-main.cebb8d97.js.map",
+    "static/js/2.b4d7d1ea.chunk.js": "/TextAnalyzerApp/static/js/2.b4d7d1ea.chunk.js",
+    "static/js/2.b4d7d1ea.chunk.js.map": "/TextAnalyzerApp/static/js/2.b4d7d1ea.chunk.js.map",
+    "static/js/3.cae78781.chunk.js": "/TextAnalyzerApp/static/js/3.cae78781.chunk.js",
+    "static/js/3.cae78781.chunk.js.map": "/TextAnalyzerApp/static/js/3.cae78781.chunk.js.map",
+    "index.html": "/TextAnalyzerApp/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/TextAnalyzerApp/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b4d7d1ea.chunk.js.LICENSE.txt": "/TextAnalyzerApp/static/js/2.b4d7d1ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cebb8d97.js",
+    "static/js/2.b4d7d1ea.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.886f368c.chunk.js"
+  ]
+}
